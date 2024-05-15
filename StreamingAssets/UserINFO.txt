@@ -2,6 +2,6 @@
  Dinos.k007@gmail.com
 https://www.linkedin.com/in/dinos-klentzeris
 https://profile.indeed.com/p/dinosk-8nf366r
-https://github.com/Klentz37/Klentz37.github.io/edit/main/StreamingAssets/UserInfo.txt
-https://github.com/Klentz37/Klentz37.github.io/edit/main/StreamingAssets/FrontPageAssets/Live.mp4
-https://github.com/Klentz37/Klentz37.github.io/edit/main/StreamingAssets/userIcon.png
+https://github.com/Klentz37/Klentz37.github.io/StreamingAssets/UserInfo.txt
+https://github.com/Klentz37/Klentz37.github.io/StreamingAssets/FrontPageAssets/Live.mp4
+https://github.com/Klentz37/Klentz37.github.io//StreamingAssets/userIcon.png
