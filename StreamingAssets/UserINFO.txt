@@ -1,0 +1,7 @@
+ IT Engineer
+ Dinos.k007@gmail.com
+https://www.linkedin.com/in/dinos-klentzeris
+https://profile.indeed.com/p/dinosk-8nf366r
+Assets/StreamingAssets/UserInfo.txt
+Assets/StreamingAssets/FrontPageAssets/Live.mp4
+Assets/StreamingAssets/FrontPageAssets/userIcon.png
